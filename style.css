@@ -1,0 +1,30 @@
+
+#posi{
+    font-size:34px;
+    color:red;
+    text-align: center;
+    text-shadow: green 12px;
+
+}
+#sa1{
+    height:500px;
+    width:400px;
+    color:aquamarine;
+}
+
+#sa{
+    
+    font-size: 50px;
+    color:purple;
+    text-align: center;
+    
+}
+#pan{
+    background-color: aqua;
+}
+textarea{
+    display:flex;
+    justify-items: center;
+    align-items: center;
+    background-color: yellowgreen;
+}
